@@ -1,0 +1,35 @@
+
+body{
+    color: floralwhite;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+    background-image: url(bench.jpg);
+    background-position: center;
+    background-size: 1366px 768px;
+    background-position-x: 50%;
+    background-position-y: 10%;
+    background-repeat: no-repeat;
+
+    
+    
+}
+
+.txt{
+    position: absolute;
+    top: 40%;
+    left: 31.5%;
+    color: black;
+}
+.tag{
+
+    position: absolute;
+    top: 52%;
+    left: 40.5%;
+    color: gold;
+
+}
+.link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    right: 2%;
+}
